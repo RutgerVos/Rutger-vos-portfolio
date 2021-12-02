@@ -16,5 +16,8 @@
             <x-jet-nav-link href="{{ route('home') }}" class="text-decoration-none">
                      {{ __('home') }}
             </x-jet-nav-link>
+            <x-jet-nav-link href="{{ route('projecten') }}" class="text-decoration-none">
+                     {{ __('projecten') }}
+            </x-jet-nav-link>
         </div>
 </nav>

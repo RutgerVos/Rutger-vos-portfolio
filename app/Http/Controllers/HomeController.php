@@ -16,6 +16,10 @@ class HomeController extends Controller
     {
         return view("home.index");
     }
+    public function projecten()
+    {
+        return view("home.projecten");   
+    }
 
     /**
      * Show the form for creating a new resource.

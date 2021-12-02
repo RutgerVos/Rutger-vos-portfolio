@@ -9,9 +9,10 @@
     <p class="font-weight-bolder">Rutger Vos</p>
      <a class="btn btn-primary" href="https://www.linkedin.com/in/rutger-vos-5631b9207/" role="button" target="_blank">Linkedin</a>
      <a class="btn btn-info" href="mailto:rutger564@gmail.com" role="button">E-mail</a>
+     <a class="btn btn-dark" href="https://github.com/RutgerVos" role="button">github</a>
      <address>
     Acaciastraat 16, Dordrecht<br>
-    Mobiel: 06-11482684<br>
+    <a href="tel:06-11482684">06-11482684</a><br>
     NL
   </address>
  </div>
